@@ -1,0 +1,6 @@
+{  
+ "backend-service-url": "ml-api-oun7uxsbwa-et.a.run.app",
+ "frontend-service-url": "submissionmlgc-bagas.et.r.appspot.com",
+ "project-id": "submissionmlgc-bagas",
+ "bucket-name": "submissions-model-bagas"
+}
