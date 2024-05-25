@@ -1,0 +1,5 @@
+*.zip
+*.png
+*.txt
+node_modules
+*.json
